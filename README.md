@@ -3,7 +3,7 @@ A study of the quality of the WiFi and user perceptions of the WiFi conducted by
 
 There are two datasets in this repository.
 
-The first is WiFiStudy. This dataset consists of various measurements of the WiFi network taken by students. The variables are,
+The first is **WiFiStudy**. This dataset consists of various measurements of the WiFi network taken by students. The variables are,
 
 - **Date** = The date that the measurement was taken.
 - **Time** = The time of day when the measurement was taken.
@@ -17,7 +17,7 @@ The first is WiFiStudy. This dataset consists of various measurements of the WiF
 
 
 
-The second is WiFiSurvey. This dataset consists of survey responses. The survey was designed by students to measure student perception of the quality of the WiFi. The variables are,
+The second is **WiFiSurvey**. This dataset consists of survey responses. The survey was designed by students to measure student perception of the quality of the WiFi. The variables are,
 
 - **Dorm** = “What dorm are you in?”	
 - **Quality** = “How would you rate the overall quality of the Wi-Fi?”
